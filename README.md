@@ -141,7 +141,7 @@ Search posts:
 
 ## Pagination
 
-List endpoints support pagination.
+List and Search endpoints support pagination.
 
 Example:
 
