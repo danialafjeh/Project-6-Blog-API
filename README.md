@@ -2,7 +2,7 @@
 
 # Blog REST API
 
-A complete Blog REST API built with Django REST Framework (DRF). This project provides authentication, blog post management, user management, comments, likes, search functionality, pagination, and API documentation.
+A complete Blog RESTful API built with Django REST Framework (DRF). This project provides authentication, blog post management, user management, comments, likes, search functionality, pagination, and API documentation.
 
 ## Features
 
