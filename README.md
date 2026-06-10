@@ -32,7 +32,10 @@ A complete Blog RESTful API built with Django REST Framework (DRF). This project
   * Title
   * Category
   * Tags
-
+* Category and Tags support
+* Comment count per post
+* Like count per post
+  
 ### Comments
 
 * Add comments to posts
@@ -53,9 +56,6 @@ A complete Blog RESTful API built with Django REST Framework (DRF). This project
 * Swagger/OpenAPI documentation
 * Uses Viewsets & Router
 * Nested serializers for cleaner API responses
-* Category and Tags support for blog's posts
-* Comment count per post
-* Like count per post
 
 ---
 
