@@ -55,7 +55,7 @@ A complete Blog RESTful API built with Django REST Framework (DRF). This project
 * Pagination
 * Swagger/OpenAPI documentation
 * Uses Viewsets & Router
-* Nested serializers for cleaner API responses
+* Nested serializers & Slugrelated system for cleaner API responses
 * Database relations ForeignKey & ManyToMany for optimized data handling in database
 
 ---
