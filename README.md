@@ -1,12 +1,12 @@
-# About Project
+# 💻 About Project
 
 [Complete guide | Run This Project on your computer](https://github.com/danialafjeh/Run-My-Projects-Locally)
 
-# 🚀 Blog REST API
+# Blog REST API
 
 A complete Blog RESTful API built with Django REST Framework (DRF). This project provides authentication, blog post management, user management, comments, likes, search functionality, pagination, and API documentation.
 
-## ✒️ Features
+## Features
 
 ### Authentication
 
@@ -62,7 +62,7 @@ A complete Blog RESTful API built with Django REST Framework (DRF). This project
 
 ---
 
-## 📝 Tech Stack
+## Tech Stack
 
 * Python
 * Django
@@ -73,7 +73,7 @@ A complete Blog RESTful API built with Django REST Framework (DRF). This project
 
 ---
 
-## 👨‍💻 Database Setup
+## Database Setup
 
 This project uses PostgreSQL.
 
@@ -81,7 +81,7 @@ Configure your PostgreSQL credentials inside your environment variables or setti
 
 ---
 
-## 🟢 API Documentation
+## API Documentation
 
 Swagger UI:
 
@@ -99,7 +99,7 @@ Note: Since the project uses custom ViewSets and custom actions, Swagger may not
 
 ---
 
-## ⚠️ JWT Authentication
+## JWT Authentication
 
 Obtain JWT token:
 
@@ -126,7 +126,7 @@ Authorization: Bearer <access_token>
 
 ---
 
-## 🔎 Search Examples
+## Search Examples
 
 Search users:
 
@@ -142,7 +142,7 @@ Search posts:
 
 ---
 
-## 📃 Pagination
+## Pagination
 
 List and Search endpoints support pagination.
 
@@ -152,7 +152,7 @@ Example:
 /api/posts/?page=2
 ```
 
-## 💻 Project Purpose
+## Project Purpose
 
 This project was developed as a learning and portfolio project to practice building a complete RESTful API using Django REST Framework and PostgreSQL.
 
